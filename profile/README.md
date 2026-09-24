@@ -91,19 +91,76 @@ LinkRo는 이러한 지하철 이용 과정의 여러 불편을
 
 ---
 
-## 👨‍💻 Team 리삼느
+## 👥 팀원
 
-명지대학교 컴퓨터공학과  
-**2026 팀프로젝트1 3조**
+<table>
+<tr>
 
-| 이름 | 역할 | 소개 |
-| --- | --- | --- |
-| [**최인준**](https://github.com/cij041109-del) | 👑 Team Leader · Full-Stack | 프로젝트 전체 개발 흐름 관리 및 Frontend / Backend 개발 |
-| [**최가율**](https://github.com/choigayul) | 🎨 Frontend | React Native 기반 UI/UX 및 사용자 화면 개발 |
-| [**장선호**](https://github.com/jjangjjangsunho) | ⚙️ Backend | Spring Boot 기반 서버 및 서비스 로직 개발 |
-| [**손창범**](https://github.com/sonchang321) | 🤖 Frontend · AI | Frontend 개발 및 AI 기능 연동·구현 |
-| **변현근** | 🗄️ Backend | Backend API 및 데이터 처리 기능 개발 |
+<td align="center" width="200">
+<a href="https://github.com/cij041109-del">
+<img src="https://github.com/cij041109-del.png" width="120">
+<br>
+<b>최인준</b>
+</a>
+<br><br>
+<b>Full-Stack · Team Leader</b>
+<br><br>
+Frontend / Backend<br>
+프로젝트 전체 개발 및 관리
+</td>
 
+<td align="center" width="200">
+<a href="https://github.com/choigayul">
+<img src="https://github.com/choigayul.png" width="120">
+<br>
+<b>최가율</b>
+</a>
+<br><br>
+<b>Frontend</b>
+<br><br>
+React Native 기반<br>
+UI/UX 및 화면 구현
+</td>
+
+<td align="center" width="200">
+<a href="https://github.com/jjangjjangsunho">
+<img src="https://github.com/jjangjjangsunho.png" width="120">
+<br>
+<b>장선호</b>
+</a>
+<br><br>
+<b>Backend</b>
+<br><br>
+Spring Boot 기반<br>
+서버 및 서비스 로직 개발
+</td>
+
+<td align="center" width="200">
+<a href="https://github.com/sonchang321">
+<img src="https://github.com/sonchang321.png" width="120">
+<br>
+<b>손창범</b>
+</a>
+<br><br>
+<b>Frontend · AI</b>
+<br><br>
+화면 구현 및<br>
+AI 기능 연동
+</td>
+
+<td align="center" width="200">
+<img src="https://github.com/ghost.png" width="120">
+<br>
+<b>변현근</b>
+<br><br>
+<b>Backend</b>
+<br><br>
+Backend API 및<br>
+데이터 처리 기능 개발
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🔀 Git Flow
