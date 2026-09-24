@@ -98,10 +98,10 @@ LinkRo는 이러한 지하철 이용 과정의 여러 불편을
 
 | 이름 | 역할 | 소개 |
 | --- | --- | --- |
-| **최인준** | 👑 Team Leader · Full-Stack | 프로젝트 전체 개발 흐름 관리 및 Frontend / Backend 개발 |
-| **최가율** | 🎨 Frontend | React Native 기반 UI/UX 및 사용자 화면 개발 |
-| **장선호** | ⚙️ Backend | Spring Boot 기반 서버 및 서비스 로직 개발 |
-| **손창범** | 🤖 Frontend · AI | Frontend 개발 및 AI 기능 연동·구현 |
+| [**최인준**](https://github.com/cij041109-del) | 👑 Team Leader · Full-Stack | 프로젝트 전체 개발 흐름 관리 및 Frontend / Backend 개발 |
+| [**최가율**](https://github.com/choigayul) | 🎨 Frontend | React Native 기반 UI/UX 및 사용자 화면 개발 |
+| [**장선호**](https://github.com/jjangjjangsunho) | ⚙️ Backend | Spring Boot 기반 서버 및 서비스 로직 개발 |
+| [**손창범**](https://github.com/sonchang321) | 🤖 Frontend · AI | Frontend 개발 및 AI 기능 연동·구현 |
 | **변현근** | 🗄️ Backend | Backend API 및 데이터 처리 기능 개발 |
 
 ---
