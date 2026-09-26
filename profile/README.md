@@ -149,7 +149,8 @@ AI 기능 연동
 </td>
 
 <td align="center" width="200">
-<img src="https://github.com/ghost.png" width="120">
+ <a href="https://github.com/byunkeun">
+<img src="https://github.com/byunkeun.png" width="120">
 <br>
 <b>변현근</b>
 <br><br>
